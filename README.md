@@ -1,3 +1,6 @@
+Run on Google collab :
+https://colab.research.google.com/drive/1zAuXt4pKWHUJrOlPwIeO6DUqy6fFyOZZ?usp=sharing
+
 # Newton's Rings Interactive Simulation 🔍
 
 <div align="center">
